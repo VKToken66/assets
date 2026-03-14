@@ -7,14 +7,14 @@
   "description": "VK Token (VK) is the native digital value unit of the VK Network, a decentralized infrastructure built on the BNB Smart Chain designed for transparent value exchange, governance, and digital economies.",
   "explorer": "https://bscscan.com/token/0x6a43cb09fc6d16525f38ecfa27cc568282d86678",
   "status": "active",
-  "id": "0x6a43cb09fc6d16525f38ecfa27cc568282d86678",
+  "id": "0x6a43cB09fC6d16525F38ECfa27cc568282d86678",
   "links": [
     {
       "name": "website",
       "url": "https://vktoken.org/"
     },
     {
-      "name": "x",
+      "name": "twitter",
       "url": "https://twitter.com/vktoken"
     },
     {
@@ -27,8 +27,6 @@
     }
   ],
   "tags": [
-    "defi",
-    "infrastructure",
-    "governance"
+    "defi"
   ]
 }
